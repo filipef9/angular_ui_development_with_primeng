@@ -1,2 +1,2 @@
-# angular_ui_development_with_primeng
+# Angular UI Development With PrimeNG
 Acompanhamento do livro: Angular UI Development with PrimeNG
