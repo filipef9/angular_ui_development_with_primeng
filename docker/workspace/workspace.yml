@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  workspace:
+    image: angular-ui-development-with-primeng:dev-workspace 
+    build: ./
+    ports:
+      - 4200:4200
+    volumes:
+      - ./../../:/workspace
+    command: tail -f /dev/null
+    
